@@ -25,7 +25,7 @@ public class Main {
 		sim.addTavoli(16,new Tavolo(4,false));
 
 		
-		
+		// System
 		
 		int time=0;
 		Random random = new Random();
